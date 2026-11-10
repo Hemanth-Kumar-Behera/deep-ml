@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-09T17:35:40.364Z",
+  "generated_at": "2026-11-10T16:57:51.737Z",
   "items": {
     "math:7": {
       "kind": "math",
@@ -94,6 +94,17 @@
       "path": "math/0409-schur-complements-and-the-partitioned-inverse",
       "first_solved_at": "2026-11-09T17:35:39.834Z",
       "last_pushed_at": "2026-11-09T17:35:39.834Z"
+    },
+    "math:410": {
+      "kind": "math",
+      "id": "410",
+      "title": "Woodbury, Sherman-Morrison and the Matrix Determinant Lemma",
+      "difficulty": "medium",
+      "category": "Probabilistic Machine Learning",
+      "url": "https://www.deep-ml.com/math-problems/410",
+      "path": "math/0410-woodbury-sherman-morrison-and-the-matrix-determinant-lemma",
+      "first_solved_at": "2026-11-10T16:57:51.034Z",
+      "last_pushed_at": "2026-11-10T16:57:51.034Z"
     }
   }
 }
